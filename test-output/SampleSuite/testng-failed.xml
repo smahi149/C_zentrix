@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SampleSuite]">
+  <test thread-count="5" name="SampleTest(failed)">
+    <classes>
+      <class name="org.C_zentrix.org.C_zentrix.Test_czentrix">
+        <methods>
+          <include name="beforeSuit"/>
+          <include name="endReport"/>
+          <include name="getResult"/>
+          <include name="before"/>
+          <include name="GateWay"/>
+        </methods>
+      </class> <!-- org.C_zentrix.org.C_zentrix.Test_czentrix -->
+    </classes>
+  </test> <!-- SampleTest(failed) -->
+</suite> <!-- Failed suite [SampleSuite] -->

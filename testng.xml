@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SampleSuite">
+    
+    <test name="SampleTest">
+      <classes>
+       <class name="org.C_zentrix.org.C_zentrix.Test_czentrix"/>
+      </classes>
+    </test>
+ </suite>   	
